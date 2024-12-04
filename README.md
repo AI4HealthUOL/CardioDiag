@@ -4,7 +4,7 @@ CardioDiag have been proposed in four main manuscrips:
 
 1. **Estimation of Cardiac and Non-cardiac Diagnosis from Electrocardiogram Features** <ins>Accepted by the international conference of computing in cardiology (CinC) 2024.</ins> [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2408.17329)
 
-2. **CardioLab: Laboratory Values Estimation and Monitoring from Electrocardiogram Signals - A Deep-Multimodal Approach** [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2411.14886)
+2. **Liver** [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2411.14886)
 
 3. **Neoplasms** [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2411.14886)
    
