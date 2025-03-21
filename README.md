@@ -51,6 +51,17 @@ In terms of input features, we use demographics such as age and gender, as well 
 }
 ```
 
+```bibtex
+@misc{alcaraz2025explainable,
+      title={Explainable and externally validated machine learning for neuropsychiatric diagnosis via electrocardiograms}, 
+      author={Alcaraz, Juan Miguel Lopez and Oloyede, Ebenezer and Taylor, David and Haverkamp, Wilhelm and Strodthoff, Nils},
+      year={2025},
+      eprint={2502.04918},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2502.04918}, 
+}
+```
 
 
 
